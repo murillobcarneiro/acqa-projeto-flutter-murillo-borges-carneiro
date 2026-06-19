@@ -4,8 +4,16 @@ DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS
 PROFESSOR/TUTOR: MATEUS DE SOUSA
 ALUNO: MURILLO BORGES CARNEIRO - 1186731
 
-Link do repositório GitHub:
+Link do repositório GitHub: 
 https://github.com/murillobcarneiro/acqa-projeto-flutter-murillo-borges-carneiro.git
+
+1- CONFORME PEDIDO NA ACQA - NO GITHUB SE ENCONTRA SOMENTE OS ARQUIVOS .dart *
+
+2 - NO AVA SE ENCONTRA ANEXADO TAMBÉM A PASTA ZIP CONTENDO: FOTOS DO TESTE DE TELAS E FUNCIONALIDADES DO APLICATIVO DESENVOLVIDO ALÉM DO BACKUP DOS ARQUIVOS .dart da ACQA;
+
+3 - Acredito ser necessário não somente apresentar as 3 principais telas, mas fiz um teste completo em todas as telas.
+
+Relatório - Agenda Flutter (Projeto - Aplicativo)
 
 O presente projeto foi desenvolvido utilizando o framework Flutter e a linguagem Dart, com o objetivo de criar um aplicativo móvel para gerenciamento de tarefas diárias. A aplicação foi estruturada em diferentes telas, permitindo ao usuário realizar login, efetuar cadastro, selecionar uma data por meio de um calendário e gerenciar suas atividades de forma simples e intuitiva.
 
@@ -23,11 +31,10 @@ Conclui-se que o projeto permitiu aplicar na prática os principais conceitos es
 
 Conteúdo atual dos arquivos da pasta lib:
 
-- main.dart
-- login_screen.dart
+- main.dartlogin_screen.dart
 - register_screen.dart
 - calendar_screen.dart
 - task_screen.dart
 - task.dart
 
-Obs: Copie os arquivos da pasta lib para um projeto Flutter criado no Android Studio.
+Instruções: Copie os arquivos da pasta lib para um projeto Flutter criado no Android Studio para executar o aplicativo.
