@@ -23,11 +23,11 @@ Conclui-se que o projeto permitiu aplicar na prática os principais conceitos es
 
 Conteúdo atual dos arquivos da pasta lib:
 
-main.dart
-login_screen.dart
-register_screen.dart
-calendar_screen.dart
-task_screen.dart
-task.dart
+- main.dart
+- login_screen.dart
+- register_screen.dart
+- calendar_screen.dart
+- task_screen.dart
+- task.dart
 
 Obs: Copie os arquivos da pasta lib para um projeto Flutter criado no Android Studio.
